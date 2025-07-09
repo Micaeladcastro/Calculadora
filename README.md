@@ -1,4 +1,4 @@
-<p> #Calculadora Site : <a href="https://calculado-simples.netlify.app/"> </p>
+<p> #Calculadora </p>
 
 <h1>
 <br>
