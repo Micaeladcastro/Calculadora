@@ -1,5 +1,5 @@
-<p> #Calculadora </p>
-  <strong> Site : <a href="https://calculado-simples.netlify.app/"></a></strong>
+<p> #Calculadora Site : <a href="https://calculado-simples.netlify.app/"> </p>
+
 <h1>
 <br>
 Uma calculadora desenvolvida com HTML, CSS e JavaScript, com visual moderno e responsivo. O projeto permite realizar operações básicas de forma intuitiva e com uma interface amigável para dispositivos móveis e desktops.
