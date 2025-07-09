@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../tetes"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../desafio7"
+		},
+		{
+			"path": "../ptojeto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Calculadora"
+	}
+}
